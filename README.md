@@ -34,7 +34,7 @@ The **Vacation Tracking System (VTS)** empowers employees to independently manag
 - One physical server hosts the web application, database, and application server.
 - Legacy stack usage is mandatory (e.g., Apache Tomcat, Cloudscape DB).
 - HTTP-based communication (no HTTPS).
-- Must operate within the confines of current hardware and middleware capabilities.
+- Must reuses existing hardware and middleware infrastructure.
 
 ---
 
