@@ -1,8 +1,8 @@
-# Vacation Tracking System (VTS)
+# Vacation Tracking System
 
 ## 📌 Vision
 
-The **Vacation Tracking System (VTS)** empowers employees to independently manage their vacation time, sick leave, and personal time off. VTS eliminates the need for users to be experts in company or facility-specific leave policies by streamlining leave requests and approvals through a centralized, rules-based system.
+The **Vacation Tracking System** empowers employees to independently manage their vacation time, sick leave, and personal time off. System eliminates the need for users to be experts in company or facility-specific leave policies by streamlining leave requests and approvals through a centralized, rules-based system.
 
 ---
 
