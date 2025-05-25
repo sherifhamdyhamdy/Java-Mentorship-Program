@@ -35,6 +35,9 @@ The **Vacation Tracking System** empowers employees to independently manage thei
 - Legacy stack usage is mandatory (e.g., Apache Tomcat, Cloudscape DB).
 - HTTP-based communication (no HTTPS).
 - Must reuses existing hardware and middleware infrastructure.
+- Bandwidth is very slow due to sophisticated architecture.
+- Using JavaScript and Frames
+- Using Style sheets that doesn’t mean that application pages will render in the same way on all client con￾figurations.
 
 ---
 
