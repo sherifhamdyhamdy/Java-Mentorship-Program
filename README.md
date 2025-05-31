@@ -60,4 +60,10 @@ The **Vacation Tracking System** empowers employees to independently manage thei
 - **System Administrator**:
   - Maintains system performance, backups, and log archival.
   - Ensures server/database uptime and technical integrity.
+---
+## Sequence Diagram
+
+![image](https://github.com/user-attachments/assets/8a3f8b79-315f-4c2a-aebb-590b95517f48)
+
+---
 
