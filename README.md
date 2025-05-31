@@ -66,4 +66,7 @@ The **Vacation Tracking System** empowers employees to independently manage thei
 ![image](https://github.com/user-attachments/assets/8a3f8b79-315f-4c2a-aebb-590b95517f48)
 
 ---
+## State Machine Digram
+
+![image](https://github.com/user-attachments/assets/4c45f981-0e03-476a-b793-c4b2243b9982)
 
